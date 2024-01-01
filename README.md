@@ -1,16 +1,9 @@
-# another_quiz
+# Tiểu luận môn Phát triển Ứng dụng Di động: Ứng dụng Kiểm tra trắc nghiệm
 
-A new Flutter project.
+Ứng dụng Kiểm tra trắc nghiệm trong dự án Giáo dục địa phương.
 
-## Getting Started
+## Cài đặt
 
-This project is a starting point for a Flutter application.
+Sau khi clone dự án, chạy ```pub get``` để tại các dependencies.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

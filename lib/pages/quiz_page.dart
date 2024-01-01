@@ -301,7 +301,7 @@ class _QuizPageState extends State<QuizPage> {
                           Column(
                             children: [
                               SizedBox(
-                                height: 270,
+                                height: 200,
                                 child: ClipRRect(
                                   borderRadius: BorderRadius.circular(20),
                                   child: ChewieListItem(

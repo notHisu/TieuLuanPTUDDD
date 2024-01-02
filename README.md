@@ -4,6 +4,6 @@
 
 ## Cài đặt
 
-Sau khi clone dự án, chạy ```pub get``` để tải các dependencies.
+Sau khi clone dự án, chạy ```flutter pub get``` để tải các dependencies.
 
 
